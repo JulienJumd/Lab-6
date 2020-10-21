@@ -3,14 +3,16 @@ body{
 	font:1em sans-serif;
 }
 
-form,h1{
+form{
 	margin: 0 auto;
 	width: 30%;
 	padding: 2em;
     text-align:left;
 	
 }
-
+h1{
+	text-align:center;
+}
 ul{
 	list-style:none;
 	padding:0;
